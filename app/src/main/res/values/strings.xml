@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">City Weather</string>
+    <string name="search_prompt">Search the city</string>
+    <string name="search_icon_description">Search Icon</string>
+    <string name="close_icon_description">Close Icon</string>
+    <string name="temperature_degrees">%d°</string>
+    <string name="wind_speed">%d m/s</string>
+</resources>
